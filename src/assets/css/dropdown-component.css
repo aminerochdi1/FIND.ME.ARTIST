@@ -1,0 +1,105 @@
+.dropdown-component {
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  border-radius: 0px;
+  height: 3.3em;
+  color: #FFF;
+  cursor: pointer!important;
+  position: relative;
+}
+
+.dropdown-container {
+  display: none;
+  opacity: 0;
+}
+
+.dropdown-container.show {
+  display: flex;
+  flex-direction: column;
+  opacity: 1;
+}
+
+.dropdown-component:hover .placeholder {
+  color: white!important;
+}
+
+.dropdown-component .inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding: 10px!important;
+}
+@keyframes expand-down {
+  from {
+    height: 0;
+  }
+  to {
+    height: 200px;
+  }
+}
+
+.dropdown-component .dropdown {
+  visibility: hidden;
+  position: absolute;
+  width: inherit;
+  box-sizing: inherit;
+  z-index: 1000;
+  color: #000;
+  border-radius: 0px;
+  top: 50px;
+  left: 0px;
+  width: 100%;
+  opacity: 0;
+  animation-name: expand-down;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+
+.dropdown-component .dropdown.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.dropdown-component .dropdown .seach-input {
+  padding: 5px 10px 5px 10px!important;
+  border: 2px solid var(--bs-primary);
+}
+
+.dropdown-component .dropdown .seach-input:focus {
+  outline: none;
+}
+
+.dropdown-component .dropdown .elements {
+  overflow-y: scroll;
+  padding: 0px;
+  max-height: 200px;
+  color: white!important;
+  border: 1px solid white!important;
+  font-size: 1.2rem;
+  font-weight: 550;
+}
+
+.dropdown-component .dropdown .elements .element {
+  padding: 8px 15px!important;
+  border-top: 1px solid white;
+  background-color: #483e4a!important;
+  list-style: none;
+  margin: none;
+  padding: none;
+}
+
+.dropdown-component .dropdown .elements .element:hover {
+  background-color: #3d2f3d!important;
+}
+
+.dropdown-component .dropdown .elements > :first-child {
+  border-top: none!important;
+}
+
+.dropdown-component .dropdown .elements .element:hover {
+  background-color: var(--bs-primary);
+}

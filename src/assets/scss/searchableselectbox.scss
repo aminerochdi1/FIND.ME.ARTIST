@@ -1,0 +1,90 @@
+.searchable-selectbox {
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  border: 1px solid #FFFFFF;
+  border-radius: 0px;
+  background-color: rgb(79, 71, 82, .8);
+  height: 3.3em;
+  color: #FFF;
+  cursor: pointer!important;
+  position: relative;
+}
+
+
+.searchable-selectbox:hover .placeholder {
+  color: white!important;
+}
+
+.searchable-selectbox .inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding: 10px!important;
+}
+
+.searchable-selectbox .dropdown {
+  visibility: hidden;
+  position: absolute;
+  width: inherit;
+  box-sizing: inherit;
+  z-index: 1000;
+  color: #000;
+  border-radius: 0px;
+  top: 50px;
+  left: 0px;
+  width: 100%;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.searchable-selectbox .dropdown.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.searchable-selectbox .dropdown .seach-input {
+  padding: 5px 10px 5px 10px!important;
+  border: 2px solid var(--bs-primary);
+}
+
+.searchable-selectbox .dropdown .seach-input:focus {
+  outline: none;
+}
+
+.searchable-selectbox .dropdown .elements {
+  overflow-y: scroll;
+  padding: 0px;
+  max-height: 150px;
+  background-color: #FFF;
+  color: #000;
+  border: 1px solid rgba(175, 175, 175,.8);
+}
+
+.searchable-selectbox .dropdown .elements .element {
+  padding: 5px 10px 5px 10px;
+  list-style: none;
+  margin: none;
+}
+
+.searchable-selectbox .dropdown .elements .element:hover {
+  background-color: var(--bs-primary);
+}
+
+.searchable-selectbox .arrow-btn {
+  margin-left: auto;
+  background-color: transparent;
+  border: none;
+  color: rgba(255,255,255,.4);
+}
+
+.searchable-selectbox .placeholder, .searchable-selectbox .arrow {
+  background-color: transparent;
+  color: rgba(255,255,255,.8)!important;
+  cursor: pointer!important;
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none;
+}

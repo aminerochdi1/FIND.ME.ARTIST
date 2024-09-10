@@ -1,0 +1,10 @@
+npm ls react @types/react
+
+npm install react@latest @types/react@latest
+
+npm install typescript@latest
+
+
+
+npm i swiper
+

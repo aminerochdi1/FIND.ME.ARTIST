@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "findme_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "N!6JsMnki!NG",
+    "database": "findme_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "supi8667_admin",
+    "password": "jOEFh;)OnYPD",
+    "database": "findme_development", 
+    "host": "nitrate.o2switch.net",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}

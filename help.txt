@@ -1,0 +1,1 @@
+jsontt /src/langs/fr.json

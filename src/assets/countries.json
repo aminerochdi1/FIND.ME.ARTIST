@@ -1,0 +1,1002 @@
+[
+    {
+        "cca2": "CH",
+        "common": "switzerland"
+    },
+    {
+        "cca2": "SE",
+        "common": "sweden"
+    },
+    {
+        "cca2": "MO",
+        "common": "macau"
+    },
+    {
+        "cca2": "MT",
+        "common": "malta"
+    },
+    {
+        "cca2": "NC",
+        "common": "new_caledonia"
+    },
+    {
+        "cca2": "IM",
+        "common": "isle_of man"
+    },
+    {
+        "cca2": "GB",
+        "common": "united_kingdom"
+    },
+    {
+        "cca2": "XK",
+        "common": "kosovo"
+    },
+    {
+        "cca2": "BJ",
+        "common": "benin"
+    },
+    {
+        "cca2": "KM",
+        "common": "comoros"
+    },
+    {
+        "cca2": "NR",
+        "common": "nauru"
+    },
+    {
+        "cca2": "BR",
+        "common": "brazil"
+    },
+    {
+        "cca2": "PK",
+        "common": "pakistan"
+    },
+    {
+        "cca2": "SR",
+        "common": "suriname"
+    },
+    {
+        "cca2": "BD",
+        "common": "bangladesh"
+    },
+    {
+        "cca2": "GW",
+        "common": "guinea-bissau"
+    },
+    {
+        "cca2": "LS",
+        "common": "lesotho"
+    },
+    {
+        "cca2": "MW",
+        "common": "malawi"
+    },
+    {
+        "cca2": "AL",
+        "common": "albania"
+    },
+    {
+        "cca2": "GP",
+        "common": "guadeloupe"
+    },
+    {
+        "cca2": "IN",
+        "common": "india"
+    },
+    {
+        "cca2": "JO",
+        "common": "jordan"
+    },
+    {
+        "cca2": "GG",
+        "common": "guernsey"
+    },
+    {
+        "cca2": "JP",
+        "common": "japan"
+    },
+    {
+        "cca2": "MS",
+        "common": "montserrat"
+    },
+    {
+        "cca2": "AM",
+        "common": "armenia"
+    },
+    {
+        "cca2": "FO",
+        "common": "faroe_islands"
+    },
+    {
+        "cca2": "RS",
+        "common": "serbia"
+    },
+    {
+        "cca2": "GS",
+        "common": "south_georgia"
+    },
+    {
+        "cca2": "ID",
+        "common": "indonesia"
+    },
+    {
+        "cca2": "EE",
+        "common": "estonia"
+    },
+    {
+        "cca2": "BV",
+        "common": "bouvet_island"
+    },
+    {
+        "cca2": "CC",
+        "common": "cocos_(keeling) islands"
+    },
+    {
+        "cca2": "VI",
+        "common": "united_states virgin islands"
+    },
+    {
+        "cca2": "HM",
+        "common": "heard_island and mcdonald islands"
+    },
+    {
+        "cca2": "TW",
+        "common": "taiwan"
+    },
+    {
+        "cca2": "LB",
+        "common": "lebanon"
+    },
+    {
+        "cca2": "TN",
+        "common": "tunisia"
+    },
+    {
+        "cca2": "KR",
+        "common": "south_korea"
+    },
+    {
+        "cca2": "RO",
+        "common": "romania"
+    },
+    {
+        "cca2": "US",
+        "common": "united_states"
+    },
+    {
+        "cca2": "SY",
+        "common": "syria"
+    },
+    {
+        "cca2": "LY",
+        "common": "libya"
+    },
+    {
+        "cca2": "SV",
+        "common": "el_salvador"
+    },
+    {
+        "cca2": "VG",
+        "common": "british_virgin islands"
+    },
+    {
+        "cca2": "CG",
+        "common": "republic_of the congo"
+    },
+    {
+        "cca2": "PN",
+        "common": "pitcairn_islands"
+    },
+    {
+        "cca2": "VC",
+        "common": "saint_vincent and the grenadines"
+    },
+    {
+        "cca2": "DK",
+        "common": "denmark"
+    },
+    {
+        "cca2": "AS",
+        "common": "american_samoa"
+    },
+    {
+        "cca2": "TV",
+        "common": "tuvalu"
+    },
+    {
+        "cca2": "GE",
+        "common": "georgia"
+    },
+    {
+        "cca2": "YT",
+        "common": "mayotte"
+    },
+    {
+        "cca2": "HR",
+        "common": "croatia"
+    },
+    {
+        "cca2": "RW",
+        "common": "rwanda"
+    },
+    {
+        "cca2": "LV",
+        "common": "latvia"
+    },
+    {
+        "cca2": "CX",
+        "common": "christmas_island"
+    },
+    {
+        "cca2": "KY",
+        "common": "cayman_islands"
+    },
+    {
+        "cca2": "LC",
+        "common": "saint_lucia"
+    },
+    {
+        "cca2": "NL",
+        "common": "netherlands"
+    },
+    {
+        "cca2": "KG",
+        "common": "kyrgyzstan"
+    },
+    {
+        "cca2": "TC",
+        "common": "turks_and caicos islands"
+    },
+    {
+        "cca2": "GD",
+        "common": "grenada"
+    },
+    {
+        "cca2": "NF",
+        "common": "norfolk_island"
+    },
+    {
+        "cca2": "AO",
+        "common": "angola"
+    },
+    {
+        "cca2": "BL",
+        "common": "saint_barthélemy"
+    },
+    {
+        "cca2": "GT",
+        "common": "guatemala"
+    },
+    {
+        "cca2": "ME",
+        "common": "montenegro"
+    },
+    {
+        "cca2": "GQ",
+        "common": "equatorial_guinea"
+    },
+    {
+        "cca2": "MV",
+        "common": "maldives"
+    },
+    {
+        "cca2": "ZA",
+        "common": "south_africa"
+    },
+    {
+        "cca2": "ER",
+        "common": "eritrea"
+    },
+    {
+        "cca2": "MY",
+        "common": "malaysia"
+    },
+    {
+        "cca2": "KP",
+        "common": "north_korea"
+    },
+    {
+        "cca2": "PM",
+        "common": "saint_pierre and miquelon"
+    },
+    {
+        "cca2": "SX",
+        "common": "sint_maarten"
+    },
+    {
+        "cca2": "AE",
+        "common": "united_arab emirates"
+    },
+    {
+        "cca2": "NG",
+        "common": "nigeria"
+    },
+    {
+        "cca2": "NO",
+        "common": "norway"
+    },
+    {
+        "cca2": "TK",
+        "common": "tokelau"
+    },
+    {
+        "cca2": "CF",
+        "common": "central_african republic"
+    },
+    {
+        "cca2": "PG",
+        "common": "papua_new guinea"
+    },
+    {
+        "cca2": "CW",
+        "common": "curaçao"
+    },
+    {
+        "cca2": "EH",
+        "common": "western_sahara"
+    },
+    {
+        "cca2": "MF",
+        "common": "saint_martin"
+    },
+    {
+        "cca2": "NA",
+        "common": "namibia"
+    },
+    {
+        "cca2": "ZW",
+        "common": "zimbabwe"
+    },
+    {
+        "cca2": "AI",
+        "common": "anguilla"
+    },
+    {
+        "cca2": "BA",
+        "common": "bosnia_and herzegovina"
+    },
+    {
+        "cca2": "SC",
+        "common": "seychelles"
+    },
+    {
+        "cca2": "RU",
+        "common": "russia"
+    },
+    {
+        "cca2": "OM",
+        "common": "oman"
+    },
+    {
+        "cca2": "TT",
+        "common": "trinidad_and tobago"
+    },
+    {
+        "cca2": "BG",
+        "common": "bulgaria"
+    },
+    {
+        "cca2": "PE",
+        "common": "peru"
+    },
+    {
+        "cca2": "PY",
+        "common": "paraguay"
+    },
+    {
+        "cca2": "SO",
+        "common": "somalia"
+    },
+    {
+        "cca2": "KW",
+        "common": "kuwait"
+    },
+    {
+        "cca2": "VU",
+        "common": "vanuatu"
+    },
+    {
+        "cca2": "ES",
+        "common": "spain"
+    },
+    {
+        "cca2": "LR",
+        "common": "liberia"
+    },
+    {
+        "cca2": "GH",
+        "common": "ghana"
+    },
+    {
+        "cca2": "AW",
+        "common": "aruba"
+    },
+    {
+        "cca2": "PL",
+        "common": "poland"
+    },
+    {
+        "cca2": "MC",
+        "common": "monaco"
+    },
+    {
+        "cca2": "PR",
+        "common": "puerto_rico"
+    },
+    {
+        "cca2": "IQ",
+        "common": "iraq"
+    },
+    {
+        "cca2": "SG",
+        "common": "singapore"
+    },
+    {
+        "cca2": "LI",
+        "common": "liechtenstein"
+    },
+    {
+        "cca2": "HN",
+        "common": "honduras"
+    },
+    {
+        "cca2": "TZ",
+        "common": "tanzania"
+    },
+    {
+        "cca2": "FJ",
+        "common": "fiji"
+    },
+    {
+        "cca2": "BO",
+        "common": "bolivia"
+    },
+    {
+        "cca2": "TF",
+        "common": "french_southern and antarctic lands"
+    },
+    {
+        "cca2": "NE",
+        "common": "niger"
+    },
+    {
+        "cca2": "CN",
+        "common": "china"
+    },
+    {
+        "cca2": "IO",
+        "common": "british_indian ocean territory"
+    },
+    {
+        "cca2": "MX",
+        "common": "mexico"
+    },
+    {
+        "cca2": "SD",
+        "common": "sudan"
+    },
+    {
+        "cca2": "SZ",
+        "common": "eswatini"
+    },
+    {
+        "cca2": "ZM",
+        "common": "zambia"
+    },
+    {
+        "cca2": "UA",
+        "common": "ukraine"
+    },
+    {
+        "cca2": "CV",
+        "common": "cape_verde"
+    },
+    {
+        "cca2": "MA",
+        "common": "morocco"
+    },
+    {
+        "cca2": "TL",
+        "common": "timor-leste"
+    },
+    {
+        "cca2": "BI",
+        "common": "burundi"
+    },
+    {
+        "cca2": "PH",
+        "common": "philippines"
+    },
+    {
+        "cca2": "KE",
+        "common": "kenya"
+    },
+    {
+        "cca2": "LK",
+        "common": "sri_lanka"
+    },
+    {
+        "cca2": "SI",
+        "common": "slovenia"
+    },
+    {
+        "cca2": "GR",
+        "common": "greece"
+    },
+    {
+        "cca2": "UM",
+        "common": "united_states minor outlying islands"
+    },
+    {
+        "cca2": "UZ",
+        "common": "uzbekistan"
+    },
+    {
+        "cca2": "ST",
+        "common": "são_tomé and príncipe"
+    },
+    {
+        "cca2": "IT",
+        "common": "italy"
+    },
+    {
+        "cca2": "KN",
+        "common": "saint_kitts and nevis"
+    },
+    {
+        "cca2": "MU",
+        "common": "mauritius"
+    },
+    {
+        "cca2": "AX",
+        "common": "åland_islands"
+    },
+    {
+        "cca2": "JM",
+        "common": "jamaica"
+    },
+    {
+        "cca2": "SK",
+        "common": "slovakia"
+    },
+    {
+        "cca2": "IL",
+        "common": "israel"
+    },
+    {
+        "cca2": "LT",
+        "common": "lithuania"
+    },
+    {
+        "cca2": "WS",
+        "common": "samoa"
+    },
+    {
+        "cca2": "PW",
+        "common": "palau"
+    },
+    {
+        "cca2": "GU",
+        "common": "guam"
+    },
+    {
+        "cca2": "AQ",
+        "common": "antarctica"
+    },
+    {
+        "cca2": "TR",
+        "common": "turkey"
+    },
+    {
+        "cca2": "CD",
+        "common": "dr_congo"
+    },
+    {
+        "cca2": "VA",
+        "common": "vatican_city"
+    },
+    {
+        "cca2": "DE",
+        "common": "germany"
+    },
+    {
+        "cca2": "UG",
+        "common": "uganda"
+    },
+    {
+        "cca2": "GF",
+        "common": "french_guiana"
+    },
+    {
+        "cca2": "CM",
+        "common": "cameroon"
+    },
+    {
+        "cca2": "TO",
+        "common": "tonga"
+    },
+    {
+        "cca2": "BB",
+        "common": "barbados"
+    },
+    {
+        "cca2": "CO",
+        "common": "colombia"
+    },
+    {
+        "cca2": "EC",
+        "common": "ecuador"
+    },
+    {
+        "cca2": "AG",
+        "common": "antigua_and barbuda"
+    },
+    {
+        "cca2": "BM",
+        "common": "bermuda"
+    },
+    {
+        "cca2": "CU",
+        "common": "cuba"
+    },
+    {
+        "cca2": "DJ",
+        "common": "djibouti"
+    },
+    {
+        "cca2": "AU",
+        "common": "australia"
+    },
+    {
+        "cca2": "BW",
+        "common": "botswana"
+    },
+    {
+        "cca2": "MK",
+        "common": "north_macedonia"
+    },
+    {
+        "cca2": "RE",
+        "common": "réunion"
+    },
+    {
+        "cca2": "PF",
+        "common": "french_polynesia"
+    },
+    {
+        "cca2": "TG",
+        "common": "togo"
+    },
+    {
+        "cca2": "MH",
+        "common": "marshall_islands"
+    },
+    {
+        "cca2": "IE",
+        "common": "ireland"
+    },
+    {
+        "cca2": "BF",
+        "common": "burkina_faso"
+    },
+    {
+        "cca2": "SB",
+        "common": "solomon_islands"
+    },
+    {
+        "cca2": "IS",
+        "common": "iceland"
+    },
+    {
+        "cca2": "NP",
+        "common": "nepal"
+    },
+    {
+        "cca2": "FR",
+        "common": "france"
+    },
+    {
+        "cca2": "CR",
+        "common": "costa_rica"
+    },
+    {
+        "cca2": "FK",
+        "common": "falkland_islands"
+    },
+    {
+        "cca2": "AZ",
+        "common": "azerbaijan"
+    },
+    {
+        "cca2": "SM",
+        "common": "san_marino"
+    },
+    {
+        "cca2": "CA",
+        "common": "canada"
+    },
+    {
+        "cca2": "DZ",
+        "common": "algeria"
+    },
+    {
+        "cca2": "YE",
+        "common": "yemen"
+    },
+    {
+        "cca2": "PA",
+        "common": "panama"
+    },
+    {
+        "cca2": "MG",
+        "common": "madagascar"
+    },
+    {
+        "cca2": "SA",
+        "common": "saudi_arabia"
+    },
+    {
+        "cca2": "CL",
+        "common": "chile"
+    },
+    {
+        "cca2": "FI",
+        "common": "finland"
+    },
+    {
+        "cca2": "ML",
+        "common": "mali"
+    },
+    {
+        "cca2": "QA",
+        "common": "qatar"
+    },
+    {
+        "cca2": "GM",
+        "common": "gambia"
+    },
+    {
+        "cca2": "WF",
+        "common": "wallis_and futuna"
+    },
+    {
+        "cca2": "GA",
+        "common": "gabon"
+    },
+    {
+        "cca2": "BH",
+        "common": "bahrain"
+    },
+    {
+        "cca2": "SN",
+        "common": "senegal"
+    },
+    {
+        "cca2": "TH",
+        "common": "thailand"
+    },
+    {
+        "cca2": "KH",
+        "common": "cambodia"
+    },
+    {
+        "cca2": "MD",
+        "common": "moldova"
+    },
+    {
+        "cca2": "NU",
+        "common": "niue"
+    },
+    {
+        "cca2": "SS",
+        "common": "south_sudan"
+    },
+    {
+        "cca2": "MM",
+        "common": "myanmar"
+    },
+    {
+        "cca2": "PT",
+        "common": "portugal"
+    },
+    {
+        "cca2": "BQ",
+        "common": "caribbean_netherlands"
+    },
+    {
+        "cca2": "GL",
+        "common": "greenland"
+    },
+    {
+        "cca2": "CI",
+        "common": "ivory_coast"
+    },
+    {
+        "cca2": "IR",
+        "common": "iran"
+    },
+    {
+        "cca2": "BY",
+        "common": "belarus"
+    },
+    {
+        "cca2": "BN",
+        "common": "brunei"
+    },
+    {
+        "cca2": "MP",
+        "common": "northern_mariana islands"
+    },
+    {
+        "cca2": "HT",
+        "common": "haiti"
+    },
+    {
+        "cca2": "TD",
+        "common": "chad"
+    },
+    {
+        "cca2": "TM",
+        "common": "turkmenistan"
+    },
+    {
+        "cca2": "SL",
+        "common": "sierra_leone"
+    },
+    {
+        "cca2": "AT",
+        "common": "austria"
+    },
+    {
+        "cca2": "LA",
+        "common": "laos"
+    },
+    {
+        "cca2": "GN",
+        "common": "guinea"
+    },
+    {
+        "cca2": "JE",
+        "common": "jersey"
+    },
+    {
+        "cca2": "FM",
+        "common": "micronesia"
+    },
+    {
+        "cca2": "SJ",
+        "common": "svalbard_and jan mayen"
+    },
+    {
+        "cca2": "TJ",
+        "common": "tajikistan"
+    },
+    {
+        "cca2": "VN",
+        "common": "vietnam"
+    },
+    {
+        "cca2": "LU",
+        "common": "luxembourg"
+    },
+    {
+        "cca2": "DM",
+        "common": "dominica"
+    },
+    {
+        "cca2": "GI",
+        "common": "gibraltar"
+    },
+    {
+        "cca2": "NI",
+        "common": "nicaragua"
+    },
+    {
+        "cca2": "BE",
+        "common": "belgium"
+    },
+    {
+        "cca2": "AD",
+        "common": "andorra"
+    },
+    {
+        "cca2": "MN",
+        "common": "mongolia"
+    },
+    {
+        "cca2": "BS",
+        "common": "bahamas"
+    },
+    {
+        "cca2": "ET",
+        "common": "ethiopia"
+    },
+    {
+        "cca2": "KI",
+        "common": "kiribati"
+    },
+    {
+        "cca2": "CY",
+        "common": "cyprus"
+    },
+    {
+        "cca2": "GY",
+        "common": "guyana"
+    },
+    {
+        "cca2": "AR",
+        "common": "argentina"
+    },
+    {
+        "cca2": "BZ",
+        "common": "belize"
+    },
+    {
+        "cca2": "KZ",
+        "common": "kazakhstan"
+    },
+    {
+        "cca2": "NZ",
+        "common": "new_zealand"
+    },
+    {
+        "cca2": "CZ",
+        "common": "czechia"
+    },
+    {
+        "cca2": "PS",
+        "common": "palestine"
+    },
+    {
+        "cca2": "DO",
+        "common": "dominican_republic"
+    },
+    {
+        "cca2": "AF",
+        "common": "afghanistan"
+    },
+    {
+        "cca2": "MQ",
+        "common": "martinique"
+    },
+    {
+        "cca2": "EG",
+        "common": "egypt"
+    },
+    {
+        "cca2": "UY",
+        "common": "uruguay"
+    },
+    {
+        "cca2": "VE",
+        "common": "venezuela"
+    },
+    {
+        "cca2": "MZ",
+        "common": "mozambique"
+    },
+    {
+        "cca2": "MR",
+        "common": "mauritania"
+    },
+    {
+        "cca2": "BT",
+        "common": "bhutan"
+    },
+    {
+        "cca2": "CK",
+        "common": "cook_islands"
+    },
+    {
+        "cca2": "SH",
+        "common": "saint_helena, ascension and tristan da cunha"
+    },
+    {
+        "cca2": "HU",
+        "common": "hungary"
+    },
+    {
+        "cca2": "HK",
+        "common": "hong_kong"
+    }
+]

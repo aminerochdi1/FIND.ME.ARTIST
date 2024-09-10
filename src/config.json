@@ -1,0 +1,34 @@
+{
+    "price": 30,
+    "stripe_public_key": "pk_test_51MrJujCZP2gY6ZaxLqX4KL3NOpzic2KeoiEL56Tw1z8vKe0Xl0oXOR9HlflMSPNrZwh7J4uM3pto31rvEEc2hJ8700JtQdSUVd",
+    "BCRYPT_SALT": 10,
+    "website": "http://localhost:3000/",
+    "API": "http://localhost:3000/api",
+    "genders": [
+        "women",
+        "man",
+        "others"
+    ],
+    "partners": [
+        {
+            "path": "elite",
+            "extension": "svg"
+        },
+        {
+            "path": "metropolitan",
+            "extension": "svg"
+        },
+        {
+            "path": "myphoto",
+            "extension": "svg"
+        },
+        {
+            "path": "premium",
+            "extension": "svg"
+        },
+        {
+            "path": "gymnasium",
+            "extension": "png"
+        }
+    ]
+}

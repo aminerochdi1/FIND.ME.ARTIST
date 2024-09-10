@@ -1,0 +1,25 @@
+{
+    "price": 30,
+    "stripe_private_token": "sk_test_51MrJujCZP2gY6Zaxm4q6kVkQBrROHInCs0nH7Uj1KWBdqFZstnn7wCgeypeqOABM2lK7xjigq7XjvGnBCQsHWAN000TI2u5Jk1",
+    "jwt": {
+        "secretKey": "07LHpGjE5^3jH6vVlqoVdTH%^Bf5sVPcTa8O&8ZMrf$*InKfThhnMlaBPa"
+    },
+    "session": {
+        "expireIn": "31d"
+    },
+    "transporter": {
+        "host": "pro3.mail.ovh.net",
+        "port": 587,
+        "secure": false,
+        "name": "FIND.ME",
+        "auth": {
+            "user": "contact@findmeartist.com",
+            "pass": "Bn8R7.j;JW%KT)U"
+        }
+    },
+    "dkim": {
+        "domainName": "findmeartist.com",
+        "keySelector": "1690640715.findmeartist",
+        "privateKey": "-----BEGIN RSA PRIVATE KEY-----\nMIICXQIBAAKBgQDXwrnutvdoVByx1xWcgt5pBEk96jUeonTr3Yw/QDz2H+K93rg5\nY3dWbtUlAzD4yc/OZMyYrdr4UxwD6TrvipXmYzeDVsnf1ZznRcO4nR3yiRer1yqp\n9EXB3sxDORZ5qEeYNQZshc0cPHxY7YNmoKl5FYEs57Di3gRvUCpH53BtuQIDAQAB\nAoGBAJz/jNwvNwgrbFXb9FXWxJAWFlV/PvfzrrCSnaLI05Mk0JDop5Ta09OJAn/U\nOqZN83Bz2IygtV1M3G3cII59gWS1RTexk7sAp3ZMBYbWT3wgM9BdU436tWmC0zSe\njDKWqV0hCRfy0aSbNNzv7h8Hl2iSexoyuZ+gSjTOCqfEpVABAkEA8veiB6dRdmrB\nW/eI46umEviXoNgHicoiiqPbaXCOe6fMKbgrfs9tgi13s+6jPKak59KiUS34Rn62\nS1M9l9r6+QJBAONVf4cpMCsL45YTYA+P1RLfuxfwZk0W+kllZDy54eH2kffyWD1w\nDOHEdvOFIvUXJC0lj+HGXyL1I8fnHR/4+MECQQCPv373tEB4JRUdSkiNGqL5Gmbr\nXKSpGxRwnh1UNqm180LRdAsXzbVmjWwC4q9lVNq/5VjvWplHa/SCgE8ypvZRAkAd\nvq8cAUCjMUAK/+f+wUQQ3yM8w6CvD4WaGuEdrPioNznsJlJzX3jgBXPG8zGavfdm\nzNZhpTIHgem3mz7NUydBAkAYo0VAJN56Zh5knOQpXWjGqRHxQzIMHNIqPFHDTLR9\ni2xxjAyuq8pB2DmylujOQsEgi7ZFH/zlDQysbWfxQlI3\n-----END RSA PRIVATE KEY-----"
+    }
+}

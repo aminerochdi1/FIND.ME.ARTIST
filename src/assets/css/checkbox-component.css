@@ -1,0 +1,33 @@
+.form-check .form-check-input.checkbox-component {
+  border: 2px solid #9d8c9e;
+  border-radius: 0px!important;
+  background-color: transparent;
+  padding: 12px;
+  color: #FFF;
+  cursor: pointer;
+  position: relative;
+}
+
+.form-check .form-check-input.checkbox-component:checked {
+  --bs-form-check-bg-image: none !important;
+  background-color: transparent;
+  border: 2px solid var(--bs-primary) !important;
+}
+
+.form-check .form-check-input.checkbox-component:checked::after {
+  content: "";
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  background-color: var(--bs-primary);
+}
+
+.form-check .form-check-input.checkbox-component:focus {
+  border: 2px solid #9d8c9e;
+  outline: none;
+  /* Remove outline on focus */
+  box-shadow: none;
+  /* Optionally, remove box shadow on focus */
+}

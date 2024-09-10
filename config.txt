@@ -1,0 +1,19 @@
+"production": {
+    "username": "root",
+    "password": "N!6JsMnki!NG",
+    "database": "findme_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+
+
+Commented : in file 
+- AvatarEditor.tsx
+- Editor.tsx
+- EditorNoSSR.tsx
+- index.tsx ( splide )
+- create.tsx ( import EditorWithNoSSR from '@/components/EditorNoSSR' )
+also (  {/* <EditorWithNoSSR data={""} onChange={(v: any) => { setDescription(v) }} /> */} )
+- _app.tsx ( <Component {...pageProps} /> )
+- _document.tsx
+

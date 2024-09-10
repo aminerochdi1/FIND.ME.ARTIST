@@ -1,0 +1,22 @@
+{
+    "photographerStyles": [
+        "phographer_style_abstract",
+        "phographer_style_architect",
+        "phographer_style_marriage",
+        "phographer_style_nature",
+        "phographer_style_still_life",
+        "phographer_style_landscape",
+        "phographer_style_sport",
+        "phographer_style_underwater",
+        "phographer_style_reporting"
+    ],
+    "videoMakerStyles": [
+        "video_maker_style_fiction",
+        "video_maker_style_documentary",
+        "video_maker_style_3d_animation_film",
+        "video_maker_style_2d_animation_film",
+        "video_maker_style_experimental_film",
+        "video_maker_style_music_video"
+    ]
+}
+

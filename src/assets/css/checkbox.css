@@ -1,0 +1,31 @@
+.form-check .form-check-input {
+    border: 1px solid #FFFFFF;
+    border-radius: 0px;
+    background-color: rgb(79, 71, 82, .8);
+    padding: 9px 9px 9px 9px;
+    color: #FFF;
+    cursor: pointer;
+    position: relative;
+}
+
+.form-check .form-check-input:checked {
+    --bs-form-check-bg-image: none;
+    background-color: transparent;
+    border: 1px solid #FFFFFF;
+}
+
+.form-check .form-check-input:checked::after {
+    content: "";
+    position: absolute;
+    top: 5px;
+    right: 4px;
+    left: 5px;
+    bottom: 4px;
+    background-color: #fff;
+}
+
+.form-check .form-check-input:focus {
+    border: 1px solid #FFFFFF;
+    outline: none;
+    box-shadow: none;
+}
