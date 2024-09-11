@@ -2,8 +2,8 @@ import { UserBuilder } from "@/builders/UserBuilder";
 import checkerUtils from "@/utils/checker.utils";
 import jwtUtils from "@/utils/jwt.utils";
 import { Op } from "sequelize";
-import { Sequelize } from "../../../../models";
-const { User, Availability } = require('../../../../models');
+// import { Sequelize } from "../../../../models";
+const { User, Availability,Sequelize } = require('../../../../models');
 
 export default async function handler(req: any, res: any) {
     if (req.method != "GET")
